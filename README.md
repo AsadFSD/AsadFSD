@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
-Hey there!
-
 I'm an aspiring developer with a passion for building and learning. Currently, I'm exploring the MERN stack alongside AI and Machine Learning, with the goal of combining both to build smart, scalable, and modern applications.
 
 \- 🚀 On a journey to master full-stack development and practical AI integration
